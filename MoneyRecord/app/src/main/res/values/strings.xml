@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Money</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_daftar">Daftar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_home">home</string>
+
+    <string-array name="Kategori">
+        <item>Konsumsi</item>
+        <item>Biaya Hidup</item>
+        <item>Lainnya</item>
+        <item>Spesial</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

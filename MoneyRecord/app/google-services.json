@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1090485919033",
+    "firebase_url": "https://money-d5700.firebaseio.com",
+    "project_id": "money-d5700",
+    "storage_bucket": "money-d5700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090485919033:android:7021aef2c9e3085b",
+        "android_client_info": {
+          "package_name": "com.example.williamlie8910.money"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090485919033-2ffr0lcsi5einan2qj7mj2v12ill3v33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.williamlie8910.money",
+            "certificate_hash": "a229b695513852461fedecac2c60fac05105e6de"
+          }
+        },
+        {
+          "client_id": "1090485919033-7efqr5m0bhvdk7r0ldtve8m0br3k2ugk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU0PXWYXDGQc7ptbaNWAxJew3B8fzT1Vs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090485919033-7efqr5m0bhvdk7r0ldtve8m0br3k2ugk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
